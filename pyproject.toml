@@ -1,5 +1,6 @@
 [project]
 name = "open-webui"
+version = "1.0.0"
 description = "Open WebUI"
 authors = [
     { name = "Timothy Jaeryang Baek", email = "tim@openwebui.com" }
